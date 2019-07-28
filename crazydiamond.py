@@ -43,7 +43,8 @@ CR_NAMES = {
     'Metallic': 'Metallica',
     'Eulogy': 'Epitaph',
     'Green Tea': 'Green Day',
-    'Sanctuary': 'Oasis'
+    'Sanctuary': 'Oasis',
+    'Prophecy Stones': 'Rolling Stones'
 }
 
 # Needs to be changed for every OP/ED
